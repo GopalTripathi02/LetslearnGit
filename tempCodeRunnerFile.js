@@ -1,0 +1,1 @@
+console.log(fruits[fruits.length-1]);
